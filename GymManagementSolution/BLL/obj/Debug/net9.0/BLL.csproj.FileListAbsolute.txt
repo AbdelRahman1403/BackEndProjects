@@ -1,0 +1,15 @@
+E:\DotNet Projects\GymManagementSolution\BLL\bin\Debug\net9.0\BLL.deps.json
+E:\DotNet Projects\GymManagementSolution\BLL\bin\Debug\net9.0\BLL.dll
+E:\DotNet Projects\GymManagementSolution\BLL\bin\Debug\net9.0\BLL.pdb
+E:\DotNet Projects\GymManagementSolution\BLL\bin\Debug\net9.0\DAL.dll
+E:\DotNet Projects\GymManagementSolution\BLL\bin\Debug\net9.0\DAL.pdb
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.dll
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\refint\BLL.dll
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.pdb
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\ref\BLL.dll
