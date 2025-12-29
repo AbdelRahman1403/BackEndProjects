@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Data
 {
-    internal class GymDbContext : DbContext
+    public class GymDbContext : DbContext
     {
-        public GymDbContext(): base()
+        public GymDbContext(DbContextOptions<GymDbContext> optionsBuilder): base(optionsBuilder)
         {
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

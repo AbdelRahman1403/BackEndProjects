@@ -13,3 +13,4 @@ E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.dll
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\refint\BLL.dll
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.pdb
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\ref\BLL.dll
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.sourcelink.json

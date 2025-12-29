@@ -15,7 +15,7 @@ namespace DAL.Models
         public string Phone { get; set; } = null!;
         public DateTime BirthDate { get; set; }
         public Gender gender { get; set; }
-        public Address address { get; set; }
+        public Address Address { get; set; } = null!;
     }
     [Owned]
     public class Address

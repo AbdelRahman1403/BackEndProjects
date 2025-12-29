@@ -12,3 +12,4 @@ E:\DotNet Projects\GymManagementSolution\DAL\obj\Debug\net9.0\ref\DAL.dll
 E:\DotNet Projects\GymManagementSolution\DAL\bin\Debug\net9.0\DAL.runtimeconfig.json
 E:\DotNet Projects\GymManagementSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
 E:\DotNet Projects\GymManagementSolution\DAL\obj\Debug\net9.0\DAL.genruntimeconfig.cache
+E:\DotNet Projects\GymManagementSolution\DAL\obj\Debug\net9.0\DAL.sourcelink.json

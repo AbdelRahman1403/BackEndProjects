@@ -28,7 +28,7 @@ namespace DAL.Data.Configurations
             builder.HasIndex(em => em.Email).IsUnique();
             builder.HasIndex(ph => ph.Phone).IsUnique();
 
-            builder.OwnsOne(ad => ad.address, UserAddress =>
+            builder.OwnsOne(ad => ad.Address, UserAddress =>
             {
                 UserAddress.Property(st => st.Street)
                            .HasColumnType("varchar")
