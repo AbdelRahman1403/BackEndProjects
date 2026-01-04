@@ -13,7 +13,7 @@ namespace DAL.Models
         public string Email { get; set; } = null!;
         public string Name { get; set; } = null!;
         public string Phone { get; set; } = null!;
-        public DateTime BirthDate { get; set; }
+        public DateOnly BirthDate { get; set; }
         public Gender gender { get; set; }
         public Address Address { get; set; } = null!;
     }

@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace DAL.Reposatories.Interfaces
 {
-    public interface IGenericRepo<T> where T : BaseEntity
+    public interface IGenericRepo<TEntity> where TEntity : BaseEntity
     {
-        IEnumerable<T> GetAll();
-        T? GetById(int id);
-        void Add(T entity);
-        void Update(T entity);
+        IEnumerable<TEntity> GetAll(Func<TEntity,bool>? condition = null);
+        TEntity? GetById(int id);
+        void Add(TEntity entity);
+        void Update(TEntity entity);
         void Delete(int id);
     }
 }

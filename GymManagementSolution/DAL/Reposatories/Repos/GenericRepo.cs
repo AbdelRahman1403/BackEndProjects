@@ -1,6 +1,7 @@
 ﻿using DAL.Data;
 using DAL.Models;
 using DAL.Reposatories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,6 @@ namespace DAL.Reposatories.Repos
         public void Add(Entity entity)
         {
             dbContext.Set<Entity>().Add(entity);
-            dbContext.SaveChanges();
         }
 
         public void Delete(int id)
@@ -29,11 +29,13 @@ namespace DAL.Reposatories.Repos
             if (chickEntity is null)
                 return;
             dbContext.Set<Entity>().Remove(chickEntity);
-            dbContext.SaveChanges();
         }
 
-        public IEnumerable<Entity> GetAll() => dbContext.Set<Entity>().ToList();
-                        
+        public IEnumerable<Entity> GetAll(Func<Entity, bool>? condition = null)
+        {
+            if (condition is null) return dbContext.Set<Entity>().AsNoTracking().ToList();
+            else return dbContext.Set<Entity>().AsNoTracking().Where(condition).ToList();
+        }
 
         public Entity? GetById(int id)
         {
@@ -44,7 +46,6 @@ namespace DAL.Reposatories.Repos
         public void Update(Entity entity)
         {
             dbContext.Set<Entity>().Update(entity);
-            dbContext.SaveChanges();
         }
     }
 }

@@ -3,152 +3,40 @@
   "WorkspaceRootPath": "E:\\DotNet Projects\\GymManagementSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\serveices\\planservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\serveices\\planservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\viewmodels\\planviewmodels\\updatetoplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\viewmodels\\planviewmodels\\updatetoplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\viewmodels\\memberviewmodels\\membertoupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\viewmodels\\memberviewmodels\\membertoupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\serveices\\memberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\serveices\\memberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|e:\\dotnet projects\\gymmanagementsolution\\gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\viewmodels\\planviewmodels\\planviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\viewmodels\\planviewmodels\\planviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\viewmodels\\planviewmodels\\createplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\viewmodels\\planviewmodels\\createplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\interfaces\\iplanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iplanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\interfaces\\imemberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\imemberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|e:\\dotnet projects\\gymmanagementsolution\\bll\\viewmodels\\memberviewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1796C1C8-2D54-4237-9F0C-F98EDFF2C90C}|BLL\\BLL.csproj|solutionrelative:bll\\viewmodels\\memberviewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\repos\\planrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\repos\\planrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\interfacesrepos\\iplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\interfacesrepos\\iplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\interfacesrepos\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\interfacesrepos\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\interfacesrepos\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\interfacesrepos\\itrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\repos\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\repos\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\repos\\trainerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\repos\\trainerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\reposatories\\interfacesrepos\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\reposatories\\interfacesrepos\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|e:\\dotnet projects\\gymmanagementsolution\\gymmanagementpl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\healthrecordconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\healthrecordconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\gymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\gymuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\migrations\\20251227210738_initalizationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\migrations\\20251227210738_initalizationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\membersessionsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\membersessionsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\membersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\membersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\membershipconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\membershipconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\sessionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\sessionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\trainerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\trainerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\planconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\planconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\gymuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\gymuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\enums\\specialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\enums\\specialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|e:\\dotnet projects\\gymmanagementsolution\\gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8F2B97-512A-4DDA-B48C-A7B92274C611}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,452 +106,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberServices.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\MemberServices.cs",
-              "RelativeDocumentMoniker": "BLL\\Serveices\\MemberServices.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\MemberServices.cs",
-              "RelativeToolTip": "BLL\\Serveices\\MemberServices.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T05:31:23.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberViewModel.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
-              "RelativeDocumentMoniker": "BLL\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
-              "RelativeToolTip": "BLL\\ViewModels\\MemberViewModels\\MemberViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T05:22:08.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IMemberServices.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IMemberServices.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\IMemberServices.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IMemberServices.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\IMemberServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Title": "MemberToUpdateViewModel.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\MemberViewModels\\MemberToUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "BLL\\ViewModels\\MemberViewModels\\MemberToUpdateViewModel.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\MemberViewModels\\MemberToUpdateViewModel.cs",
+              "RelativeToolTip": "BLL\\ViewModels\\MemberViewModels\\MemberToUpdateViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T05:20:22.599Z",
+              "WhenOpened": "2026-01-04T02:15:22.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlanRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\PlanRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\Repos\\PlanRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\PlanRepo.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\Repos\\PlanRepo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAkAAAAAAAAAA==",
+              "Title": "PlanViewModel.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "RelativeDocumentMoniker": "BLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "RelativeToolTip": "BLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:18:30.452Z",
+              "WhenOpened": "2026-01-04T01:54:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMemberServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IMemberServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IMemberServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IMemberServices.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IMemberServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T01:44:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\MemberServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Serveices\\MemberServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\MemberServices.cs",
+              "RelativeToolTip": "BLL\\Serveices\\MemberServices.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T01:44:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\PlanServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Serveices\\PlanServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Serveices\\PlanServices.cs",
+              "RelativeToolTip": "BLL\\Serveices\\PlanServices.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwGYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T01:28:11.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateToPlanViewModel.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\UpdateToPlanViewModel.cs",
+              "RelativeDocumentMoniker": "BLL\\ViewModels\\PlanViewModels\\UpdateToPlanViewModel.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\UpdateToPlanViewModel.cs",
+              "RelativeToolTip": "BLL\\ViewModels\\PlanViewModels\\UpdateToPlanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T01:36:55.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IPlan.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IPlan.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\InterfacesRepos\\IPlan.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IPlan.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\InterfacesRepos\\IPlan.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Title": "IPlanServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IPlanServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IPlanServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\Interfaces\\IPlanServices.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IPlanServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:15:30.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrainerRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\TrainerRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\Repos\\TrainerRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\TrainerRepo.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\Repos\\TrainerRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:14:08.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MemberRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\MemberRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\Repos\\MemberRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\MemberRepo.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\Repos\\MemberRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:11:11.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITrainer.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\ITrainer.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\InterfacesRepos\\ITrainer.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\ITrainer.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\InterfacesRepos\\ITrainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T00:10:22.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
-              "RelativeDocumentMoniker": "GymManagementPL\\Program.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
-              "RelativeToolTip": "GymManagementPL\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T00:39:12.921Z",
+              "WhenOpened": "2026-01-04T01:28:24.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GenericRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\GenericRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\Repos\\GenericRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\Repos\\GenericRepo.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\Repos\\GenericRepo.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwCwAAAAIAAAAAAAAAA==",
+              "Title": "CreatePlanViewModel.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\CreatePlanViewModel.cs",
+              "RelativeDocumentMoniker": "BLL\\ViewModels\\PlanViewModels\\CreatePlanViewModel.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\BLL\\ViewModels\\PlanViewModels\\CreatePlanViewModel.cs",
+              "RelativeToolTip": "BLL\\ViewModels\\PlanViewModels\\CreatePlanViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T23:04:32.6Z"
+              "WhenOpened": "2026-01-04T01:30:17.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\appsettings.json",
-              "RelativeDocumentMoniker": "GymManagementPL\\appsettings.json",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\appsettings.json",
-              "RelativeToolTip": "GymManagementPL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-28T23:40:50.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMember.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IMember.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\InterfacesRepos\\IMember.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IMember.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\InterfacesRepos\\IMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagementPL\\Program.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
+              "RelativeToolTip": "GymManagementPL\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBkAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T22:59:53.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IGenericRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Reposatories\\InterfacesRepos\\IGenericRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Reposatories\\InterfacesRepos\\IGenericRepo.cs",
-              "RelativeToolTip": "DAL\\Reposatories\\InterfacesRepos\\IGenericRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T22:59:10.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HealthRecordConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T05:31:18.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Trainer.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Trainer.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Trainer.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Trainer.cs",
-              "RelativeToolTip": "DAL\\Models\\Trainer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:11:30.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Session.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Session.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Session.cs",
-              "RelativeToolTip": "DAL\\Models\\Session.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAawBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:15:37.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GymUser.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\GymUser.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\GymUser.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\GymUser.cs",
-              "RelativeToolTip": "DAL\\Models\\GymUser.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:05:57.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Member.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Member.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Member.cs",
-              "RelativeToolTip": "DAL\\Models\\Member.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:10:31.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GymDbContext.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\GymDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\GymDbContext.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\GymDbContext.cs",
-              "RelativeToolTip": "DAL\\Data\\GymDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:51:24.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MemberSession.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\MemberSession.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\MemberSession.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\MemberSession.cs",
-              "RelativeToolTip": "DAL\\Models\\MemberSession.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:30:11.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20251227210738_InitalizationDatabase.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Migrations\\20251227210738_InitalizationDatabase.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Migrations\\20251227210738_InitalizationDatabase.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Migrations\\20251227210738_InitalizationDatabase.cs",
-              "RelativeToolTip": "DAL\\Data\\Migrations\\20251227210738_InitalizationDatabase.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T21:07:38.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MemberSessionsConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:35:52.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20251227210358_InitalizationDatabase.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs",
-              "RelativeToolTip": "DAL\\Data\\Migrations\\20251227210358_InitalizationDatabase.cs",
-              "ViewState": "AgIAABkBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T21:03:58.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MemberShipConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:24:41.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MemberShip.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\MemberShip.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\MemberShip.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\MemberShip.cs",
-              "RelativeToolTip": "DAL\\Models\\MemberShip.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwBwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T20:20:32.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HealthRecord.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\HealthRecord.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\HealthRecord.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\HealthRecord.cs",
-              "RelativeToolTip": "DAL\\Models\\HealthRecord.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAvwAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:43:25.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SessionConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\SessionConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\SessionConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\SessionConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\SessionConfigurations.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T05:09:43.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Category.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Category.cs",
-              "RelativeToolTip": "DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:19:10.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Plan.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Plan.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Plan.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Plan.cs",
-              "RelativeToolTip": "DAL\\Models\\Plan.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:20:00.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TrainerConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\TrainerConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\TrainerConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\TrainerConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\TrainerConfigurations.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:54:41.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CategoryConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\CategoryConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\CategoryConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\CategoryConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\CategoryConfigurations.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T05:07:38.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PlanConfigurations.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\PlanConfigurations.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\PlanConfigurations.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\PlanConfigurations.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\PlanConfigurations.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADgvxkAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:56:42.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MemberConfiguration.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberConfiguration.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberConfiguration.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberConfiguration.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\MemberConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:49:00.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GymUserConfiguration.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "RelativeToolTip": "DAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T06:48:53.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Specialties.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Enums\\Specialties.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Enums\\Specialties.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Enums\\Specialties.cs",
-              "RelativeToolTip": "DAL\\Models\\Enums\\Specialties.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:11:59.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Enums\\Gender.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Enums\\Gender.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\Enums\\Gender.cs",
-              "RelativeToolTip": "DAL\\Models\\Enums\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:06:21.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T02:03:34.189Z"
+              "WhenOpened": "2025-12-23T00:39:12.921Z",
+              "EditorCaption": ""
             }
           ]
         }
