@@ -1,0 +1,98 @@
+﻿
+@model TrainerToCreateViewModel
+<div class="container mt-4">
+    <header class="mb-4">
+        <h3 class="text-primary-color">Add New Trainer</h3>
+    </header>
+
+    <form method="post" action="CreateTrainer">
+
+        <!-- Trainer Info -->
+        <div class="section-header mb-3">
+            <h5 class="text-primary fw-bold">Personal Information</h5>
+            <hr class="mt-2">
+        </div>
+        <div class="row g-3">
+            <div class="col-12 col-md-6">
+                <label asp-for="Name" class="from-label"></label>
+                <input asp-for="Name" type="text" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label asp-for="Email" class="from-label"></label>
+                <input asp-for="Email" type="email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label asp-for="Phone" class="from-label"></label>
+                <input asp-for="Phone" type="text" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label asp-for="BirthDate" class="from-label"></label>
+                <input asp-for="BirthDate" type="date" class="form-control" />
+                <span asp-validation-for="BirthDate" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label class="form-label">Gender</label>
+                <select asp-for="gender" asp-items="@Html.GetEnumSelectList<Gender>()" class="form-select">
+                    <option value="">-- Select Gender --</option>
+                </select>
+            </div>
+
+        </div>
+        <div class="section-header mb-3 mt-4">
+            <h5 class="text-primary fw-bold">Address Information</h5>
+            <hr class="mt-2">
+        </div>
+        <div class="row g-3">
+
+            <div class="col-12 col-md-6">
+                <label asp-for="BuildingNumber" class="from-label"></label>
+                <input asp-for="BuildingNumber" type="text" class="form-control" />
+                <span asp-validation-for="BuildingNumber" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label asp-for="Street" class="from-label"></label>
+                <input asp-for="Street" type="text" class="form-control" />
+                <span asp-validation-for="Street" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label asp-for="City" class="from-label"></label>
+                <input asp-for="City" type="text" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+        </div>
+        <!-- Professional Information -->
+        <div class="section-header mb-3">
+            <h5 class="text-primary fw-bold">Professional Information</h5>
+            <hr class="mt-2">
+        </div>
+        <div class="col-12 col-md-6">
+            <select asp-for="specialties" asp-items="@Html.GetEnumSelectList<Specialties>()" class="form-select">
+                <option value="">-- Select One Type Of Sport --</option>
+            </select>
+        </div>
+
+        <footer class="d-flex justify-content-end gap-3 mt-4">
+            <a asp-controller="Trainer" asp-action="Inex" class="btn btn-outline-secondary px-4">
+                <i class="bi bi-arrow-left me-2"></i> Back to List
+            </a>
+
+            <button type="submit" class="btn btn-primary px-4">
+                <i class="bi bi-plus-circle me-2"></i> Add
+            </button>
+        </footer>
+    </form>
+
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

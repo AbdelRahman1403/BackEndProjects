@@ -1,9 +1,11 @@
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\images\star.svg
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\images\why us images.svg
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
@@ -15,6 +17,7 @@ E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery\dist
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\files\plans.json
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -31,6 +34,7 @@ E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery\LICE
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\images\icon.svg
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -42,8 +46,10 @@ E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery-vali
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\css\style.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.min.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\files\categories.json
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\js\site.js
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -60,8 +66,42 @@ E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\favicon.ico
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\DotNet Projects\GymManagementSolution\GymManagementPL\wwwroot\css\AuthStyle.css
+wwwroot\css\AuthStyle.css
 wwwroot\css\site.css
+wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\files\categories.json
+wwwroot\files\plans.json
+wwwroot\images\about p1.jpg
+wwwroot\images\about p2.jpg
+wwwroot\images\about p3.jpg
+wwwroot\images\action dots.jpg
+wwwroot\images\card-header.jpg
+wwwroot\images\dumbbell.jpg
+wwwroot\images\edit.jpg
+wwwroot\images\Ellipse 7.jpg
+wwwroot\images\facebook-f.jpg
+wwwroot\images\feature icon.jpg
+wwwroot\images\icon.jpg
+wwwroot\images\icon.svg
+wwwroot\images\info 1.jpg
+wwwroot\images\line-md_phone-filled.jpg
+wwwroot\images\logo.jpg
+wwwroot\images\mdi_whatsapp.jpg
+wwwroot\images\members\1139d358-cddd-4dab-91ed-f0c3c80430be.png
+wwwroot\images\message icon.jpg
+wwwroot\images\phone icon.jpg
+wwwroot\images\search icon.jpg
+wwwroot\images\star.svg
+wwwroot\images\Theo Vance.jpg
+wwwroot\images\twitter.jpg
+wwwroot\images\why us images.jpg
+wwwroot\images\why us images.svg
+wwwroot\images\workout 1.jpg
+wwwroot\images\workout 2.jpg
+wwwroot\images\workout 3.jpg
+wwwroot\images\x-circle 1.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

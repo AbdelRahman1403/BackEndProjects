@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\perisistence\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|solutionrelative:infrastructure\\perisistence\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\perisistence\\helperfunctions\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|solutionrelative:infrastructure\\perisistence\\helperfunctions\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\spceifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\spceifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B141AA-9377-4EDC-9B91-330F1B8BC48A}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\serviceabstractionlayer\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B141AA-9377-4EDC-9B91-330F1B8BC48A}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:core\\serviceabstractionlayer\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\contractsrepointerfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contractsrepointerfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\contractsrepointerfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contractsrepointerfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\spceifications\\basicspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\spceifications\\basicspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\ServiceManager.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:52:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\HelperFunctions\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\HelperFunctions\\SpecificationEvaluator.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\HelperFunctions\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Infrastructure\\Perisistence\\HelperFunctions\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:35:11.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\ProductServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:31:42.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\Repos\\GenericRepo.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\GenericRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Perisistence\\Repos\\GenericRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wBkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:25:46.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\ContractsRepoInterfaces\\IGenericRepo.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\ContractsRepoInterfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:23:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceAbstractionLayer\\IServices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstractionLayer\\IServices\\IProductServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceAbstractionLayer\\IServices\\IProductServices.cs",
+              "RelativeToolTip": "Core\\ServiceAbstractionLayer\\IServices\\IProductServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:21:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Spceifications\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Spceifications\\ProductSpecification.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Spceifications\\ProductSpecification.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Spceifications\\ProductSpecification.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:56:17.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasicSpecification.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Spceifications\\BasicSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Spceifications\\BasicSpecification.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Spceifications\\BasicSpecification.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Spceifications\\BasicSpecification.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:51:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:42:49.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -22,7 +22,8 @@ namespace DAL.Data.Configurations
             {
                 tb.HasCheckConstraint("GymUserEmailChick", "Email LIKE '%_@__%.__%'");
                 tb.HasCheckConstraint("GymUserNameChick", "LEN(Name) >= 2");
-                tb.HasCheckConstraint("GymUserPhoneChick", "Phone LIKE 010________");
+                tb.HasCheckConstraint("GymUserPhoneCheck", "Phone LIKE '010[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]'");
+
             });
 
             builder.HasIndex(em => em.Email).IsUnique();

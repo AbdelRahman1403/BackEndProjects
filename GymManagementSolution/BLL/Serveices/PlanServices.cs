@@ -54,7 +54,23 @@ namespace BLL.Serveices
                 IsActive = plan.IsActive
             });
         }
-
+        public PlanViewModel? GetPlanById(int id)
+        {
+            var plan = _unitOfWork.GetRepository<Plan>().GetById(id);
+            if (plan == null)
+            {
+                return null;
+            }
+            return new PlanViewModel
+            {
+                Id = plan.Id,
+                PlanName = plan.PlanName,
+                PlanDescription = plan.PlanDescription,
+                Price = plan.Price,
+                DurationInDays = plan.DurationInDays,
+                IsActive = plan.IsActive
+            };
+        }
         public UpdateToPlanViewModel? GetPlanToUpdate(int planId)
         {
             var PlanChick = _unitOfWork.GetRepository<Plan>().GetById(planId);
@@ -109,5 +125,7 @@ namespace BLL.Serveices
                               .GetAll(ms => ms.PlanId == PlanId 
                                    && ms.Status == "Active").Any();
         }
+
+        
     }
 }

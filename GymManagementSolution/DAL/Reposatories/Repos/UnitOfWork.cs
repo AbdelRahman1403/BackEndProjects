@@ -10,12 +10,17 @@ using System.Threading.Tasks;
 
 namespace DAL.Reposatories.Repos
 {
-    public class UnitOfWork(GymDbContext _dbContext) : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
-        private readonly GymDbContext dbContext = _dbContext;
-
         private readonly Dictionary<Type,object> repositories = new();
+        private readonly GymDbContext dbContext;
+        public ISessionRepo sessionRepo { get; }
 
+        public UnitOfWork(GymDbContext _dbContext , ISessionRepo sessionRepo)
+        {
+            dbContext = _dbContext;
+            this.sessionRepo = sessionRepo;
+        }
         public IGenericRepo<TEntity> GetRepository<TEntity>() where TEntity : BaseEntity, new()
         {
             var entityRepo = typeof(TEntity);

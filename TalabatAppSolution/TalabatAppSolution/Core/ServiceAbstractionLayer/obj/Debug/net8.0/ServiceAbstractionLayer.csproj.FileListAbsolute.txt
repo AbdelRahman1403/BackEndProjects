@@ -1,0 +1,16 @@
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.sourcelink.json
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\DotNet Projects\TalabatAppSolution\TalabatAppSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll

@@ -1,4 +1,6 @@
-﻿using BLL.Interfaces;
+﻿using AutoMapper;
+using BLL.AttachmentServices;
+using BLL.Interfaces;
 using BLL.ViewModels.MemberViewModels;
 using DAL.Models;
 using DAL.Reposatories.Interfaces;
@@ -14,10 +16,14 @@ namespace BLL.Serveices
     public class MemberServices : IMemberServices
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper mapper;
+        private readonly IAttachmentServices _attachmentServices;
 
-        public MemberServices(IUnitOfWork unitOfWork)
+        public MemberServices(IUnitOfWork unitOfWork , IMapper mapper , IAttachmentServices attachmentServices)
         {
             _unitOfWork = unitOfWork;
+            this.mapper = mapper;
+            _attachmentServices = attachmentServices;
         }
         public IEnumerable<MemberViewModel> GetAllMembers()
         {
@@ -26,48 +32,30 @@ namespace BLL.Serveices
             {
                 return Enumerable.Empty<MemberViewModel>();
             }
-            var memberViewModels = members.Select(m => new MemberViewModel
-            {
-                Id = m.Id,
-                Name = m.Name,
-                Email = m.Email,
-                PhoneNumber = m.Phone,
-                Photo = m.Photo,
-                Gender = m.gender.ToString()
-            });
-            return memberViewModels;
+            
+            return mapper.Map<IEnumerable<MemberViewModel>>(members);
         }
         public bool CreateMember(CreateMemberViewModel memberViewModel)
         {
-            if (memberViewModel is null)
-            {
-                return false;
-            }
-            var member = new Member
-            {
-                Name = memberViewModel.Name,
-                Email = memberViewModel.Email,
-                Phone = memberViewModel.PhoneNumber,
-                gender = memberViewModel.gender,
-                BirthDate = memberViewModel.BirthDate,
-                Address = new Address
-                {
-                    Street = memberViewModel.Street,
-                    City = memberViewModel.City,
-                    BuildingNumber = memberViewModel.BuildingNumber
-                },
-                HealthRecord = new HealthRecord
-                {
-                    Height = memberViewModel.HealthRecord.Height,
-                    Weight = memberViewModel.HealthRecord.Weight,
-                    BloodType = memberViewModel.HealthRecord.BloodType,
-                    Notes = memberViewModel.HealthRecord.Notes
-                }
-            };
+            var ChickEmailAndPhone = _unitOfWork.GetRepository<Member>().GetAll(m => m.Email == memberViewModel.Email
+                                                        && m.Phone == memberViewModel.PhoneNumber).Any();
+            if (ChickEmailAndPhone) return false;
+
+            var PhotoName = _attachmentServices.Upload("members", memberViewModel.PhotoProfile);
+
+            var MappingMember = mapper.Map<Member>(memberViewModel);
             try
             {
-                _unitOfWork.GetRepository<Member>().Add(member);
-                return _unitOfWork.SaveChanges() > 0;
+                MappingMember.Photo = PhotoName;
+                _unitOfWork.GetRepository<Member>().Add(MappingMember);
+
+                var IsCreated = _unitOfWork.SaveChanges() > 0;
+                if(!IsCreated)
+                {
+                    _attachmentServices.Delete("members", PhotoName);
+                    return false;
+                }
+                return true;
             }
             catch (Exception)
             {
@@ -81,27 +69,18 @@ namespace BLL.Serveices
             var member = _unitOfWork.GetRepository<Member>().GetById(MemberId);
 
             if (member is null) return null;
-
-            var MemberDetails = new MemberViewModel
-            {
-                Name = member.Name,
-                Email = member.Email,
-                PhoneNumber = member.Phone,
-                Photo = member.Photo,
-                Address = $"{member.Address.Street}, {member.Address.City}, {member.Address.BuildingNumber}",
-                BirthOfDate = member.BirthDate.ToShortDateString()
-            };
+            var memberMapping = mapper.Map<MemberViewModel>(member);
             var membership = _unitOfWork.GetRepository<MemberShip>().GetAll(ch => ch.MemberId == member.Id && ch.Status == "Active").FirstOrDefault();
 
             if (membership is not null)
             {
-                MemberDetails.MemberShipStartDate = membership.CreatedAt.ToShortDateString();
-                MemberDetails.MemberShipEndDate = membership.EndDate.ToShortDateString();
+                memberMapping.MemberShipStartDate = membership.CreatedAt.ToShortDateString();
+                memberMapping.MemberShipEndDate = membership.EndDate.ToShortDateString();
                 var Plan = _unitOfWork.GetRepository<Plan>().GetById(membership.PlanId);
-                MemberDetails.PlanName = Plan.PlanName;
+                memberMapping.PlanName = Plan.PlanName;
             }
 
-            return MemberDetails;
+            return memberMapping;
         }
 
         public HealthRecordViewModel GetHealthRecordByMemberId(int memberId)
@@ -112,15 +91,7 @@ namespace BLL.Serveices
                 return null;
             }
 
-            var HealthRecord = new HealthRecordViewModel
-            {
-                Weight = member.HealthRecord.Weight,
-                Height = member.HealthRecord.Height,
-                BloodType = member.HealthRecord.BloodType,
-                Notes = member.HealthRecord.Notes
-            };
-
-            return HealthRecord;
+            return mapper.Map<HealthRecordViewModel>(member.HealthRecord);
         }
 
         public MemberToUpdateViewModel GetMemberForUpdate(int memberId)
@@ -132,23 +103,15 @@ namespace BLL.Serveices
                 return null;
             }
 
-            return new MemberToUpdateViewModel()
-            {
-                Name = member.Name,
-                Email = member.Email,
-                PhoneNumber = member.Phone,
-                Photo = member.Photo,
-                Street = member.Address.Street,
-                City = member.Address.City,
-                BuildingNumber = member.Address.BuildingNumber
-            };
+            return mapper.Map<MemberToUpdateViewModel>(member);
         }
         public bool UpdateMember(int memberId, MemberToUpdateViewModel memberViewModel)
         {
             try
             {
                 var ChickEmailAndPhone = _unitOfWork.GetRepository<Member>().GetAll(m => m.Email == memberViewModel.Email
-                                                            && m.Phone == memberViewModel.PhoneNumber).Any();
+                                                            && m.Phone == memberViewModel.PhoneNumber
+                                                            && m.Id != memberId).Any();
 
                 if (ChickEmailAndPhone) return false;
 
@@ -157,13 +120,7 @@ namespace BLL.Serveices
                 {
                     return false;
                 }
-                member.Name = memberViewModel.Name;
-                member.Email = memberViewModel.Email;
-                member.Phone = memberViewModel.PhoneNumber;
-                member.Photo = memberViewModel.Photo;
-                member.Address.Street = memberViewModel.Street;
-                member.Address.City = memberViewModel.City;
-                member.Address.BuildingNumber = memberViewModel.BuildingNumber;
+                var Mapping = mapper.Map(memberViewModel, member);
 
                 _unitOfWork.GetRepository<Member>().Update(member);
                 return _unitOfWork.SaveChanges() > 0;
@@ -196,7 +153,12 @@ namespace BLL.Serveices
                     _unitOfWork.GetRepository<MemberShip>().Delete(membership.Id);
                 }
                 _unitOfWork.GetRepository<MemberShip>().Delete(memberId);
-                return _unitOfWork.SaveChanges() > 0;
+                var isDeleated = _unitOfWork.SaveChanges() > 0;
+                if (isDeleated)
+                {
+                    _attachmentServices.Delete("members", member.Photo);
+                }
+                return isDeleated;
             }
             catch (Exception)
             {

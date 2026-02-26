@@ -13,12 +13,12 @@ namespace DAL.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<HealthRecord> builder)
         {
-            builder.ToTable("Member")
+            builder.ToTable("HealthRecord")
                    .HasKey(hr => hr.Id);
 
             builder.HasOne<Member>()
-                   .WithOne()
-                   .HasForeignKey<HealthRecord>(hr => hr.Id);
+                .WithOne(h=> h.HealthRecord)
+                .HasForeignKey<HealthRecord>(hr => hr.Id);
             builder.Ignore(up => up.UpdatedAt);
             builder.Ignore(cr => cr.CreatedAt);
         }

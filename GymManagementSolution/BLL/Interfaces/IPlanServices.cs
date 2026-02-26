@@ -11,6 +11,8 @@ namespace BLL.Interfaces
     {
         bool CreatePlan(CreatePlanViewModel createPlanViewModel);
         IEnumerable<PlanViewModel> GetAllPlans();
+
+        PlanViewModel? GetPlanById(int id);
         
         UpdateToPlanViewModel? GetPlanToUpdate(int planId);
 

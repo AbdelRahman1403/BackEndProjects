@@ -9,14 +9,15 @@ namespace BLL.ViewModels.MemberViewModels
 {
     public class MemberToUpdateViewModel
     {
+        public int Id { get; set; }
         [StringLength(70, MinimumLength = 2, ErrorMessage = "The Name Length must between 2 and 70")]
-        [RegularExpression(@"^[a-zA-Z\s]+&", ErrorMessage = "Please Re-Write the name")]
+        [RegularExpression(@"[a-zA-Z\s]+", ErrorMessage = "Please Re-Write the name")]
         public string Name { get; set; } = null!;
 
         [StringLength(100, MinimumLength = 10, ErrorMessage = "The Email Length must between 10 and 100")]
         [EmailAddress(ErrorMessage = "Please Re-Write the Email")]
         public string Email { get; set; } = null!;
-        [RegularExpression(@"^[010|011|012|015]\d{8}$")]
+        [RegularExpression(@"^01[0125]\d{8}$")]
         public string PhoneNumber { get; set; } = null!;
         public string? Photo { get; set; }
 

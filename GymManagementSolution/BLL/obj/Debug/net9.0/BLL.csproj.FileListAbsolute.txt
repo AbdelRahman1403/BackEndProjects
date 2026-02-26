@@ -8,9 +8,9 @@ E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.GeneratedMSBui
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.sourcelink.json
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.dll
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\refint\BLL.dll
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.pdb
 E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\ref\BLL.dll
-E:\DotNet Projects\GymManagementSolution\BLL\obj\Debug\net9.0\BLL.sourcelink.json

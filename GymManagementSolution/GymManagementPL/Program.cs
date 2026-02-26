@@ -1,8 +1,16 @@
+using BLL.AttachmentServices;
+using BLL.Interfaces;
+using BLL.Profiles;
+using BLL.Serveices;
 using DAL.Data;
+using DAL.Models.IdentityModels;
 using DAL.Reposatories.Interfaces;
 using DAL.Reposatories.InterfacesRepos;
 using DAL.Reposatories.Repos;
+using DAL.SeedingData;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace GymManagementPL
 {
@@ -23,10 +31,43 @@ namespace GymManagementPL
                 options.UseSqlServer(connteictionString);
             });
 
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<GymDbContext>();
+
             builder.Services.AddScoped(typeof(IGenericRepo<>) , typeof(GenericRepo<>));
+            builder.Services.AddScoped<ISessionRepo, SessionRepo>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IAnalyticsService , AnalyticsServices>();
+            builder.Services.AddScoped<IMemberServices , MemberServices>();
+            builder.Services.AddScoped<ITrainerServices , TrainerServices>();
+            builder.Services.AddScoped<IPlanServices, PlanServices>();
+            builder.Services.AddScoped<ISessionServices, SessionServices>();
+            builder.Services.AddScoped<IAttachmentServices, AttachmentServices>();
+            builder.Services.AddScoped<IAccountServices, AccountServices>();
+            builder.Services.AddAutoMapper(mp => mp.AddProfile(new SessionProfile()));
+            builder.Services.AddAutoMapper(mp => mp.AddProfile(new MemberProfile()));
+            builder.Services.AddAutoMapper(mp => mp.AddProfile(new TrainerProfile()));
+
+
+
 
 
             var app = builder.Build();
+
+            using var Scope = app.Services.CreateScope();
+            var services = Scope.ServiceProvider.GetRequiredService<GymDbContext>();
+            var userManager = Scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+            var roleManager = Scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+            var pandingMigrations = services.Database.GetPendingMigrations();
+            if(pandingMigrations.Any())
+            {
+                services.Database.Migrate();
+            }
+
+            SeedingData.SeedData(services);
+            IdentityDbContextSeedingData.SeedData(roleManager , userManager);
+
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -38,13 +79,13 @@ namespace GymManagementPL
 
             app.UseHttpsRedirection();
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+                pattern: "{controller=Account}/{action=Login}/{id?}")
                 .WithStaticAssets();
 
             app.Run();

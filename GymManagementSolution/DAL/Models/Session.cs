@@ -10,7 +10,8 @@ namespace DAL.Models
     public class Session : BaseEntity
     {
         public int Capacity { get; set; }
-        public string? Descrption { get; set; } 
+
+        public string? Description { get; set; } 
 
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
