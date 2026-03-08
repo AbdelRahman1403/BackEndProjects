@@ -48,19 +48,21 @@ The project follows an **N-Tier (Layered) Architecture** to ensure separation of
 ```text
 GymManagementSolution/
 ├── BLL/                     # Business Logic Layer
-│   ├── AttachmentServices/  # File upload logic [cite: 602]
-│   ├── Interfaces/          # Service Abstractions [cite: 621]
-│   ├── Profiles/            # AutoMapper Mappings [cite: 644]
-│   ├── Services/            # Service Implementations [cite: 671]
+│   ├── AttachmentServices/  # File upload logic 
+│   ├── Interfaces/          # Service Abstractions 
+│   ├── Profiles/            # AutoMapper Mappings 
+│   ├── Services/            # Service Implementations 
 │   └── ViewModels/          # Data Transfer Objects
 ├── DAL/                     # Data Access Layer
-│   ├── Context/             # EF Core DbContext [cite: 296]
-│   ├── Migrations/          # Database Schema History [cite: 260]
-│   ├── Models/              # Database Entities [cite: 662]
+│   ├── Context/             # EF Core DbContext 
+│   ├── Migrations/          # Database Schema History 
+│   ├── Models/              # Database Entities 
 │   └── Repositories/        # Unit of Work & Repos
-├── GymManagementPL/         # Presentation Layer (MVC) [cite: 486]
+├── GymManagementPL/         # Presentation Layer (MVC) 
 │   ├── Controllers/         # MVC Controllers
-│   ├── Views/               # Razor Templates [cite: 540]
+│   ├── Views/               # Razor Templates 
 │   └── wwwroot/             # Static Assets (CSS, JS, Images)
 └── GymManagementSolution.sln
 ```
+
+
