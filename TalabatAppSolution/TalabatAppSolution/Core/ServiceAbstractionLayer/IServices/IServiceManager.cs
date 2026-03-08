@@ -9,5 +9,6 @@ namespace ServiceAbstractionLayer.IServices
     public interface IServiceManager
     {
         public IProductServices ProductServices { get; } // Not implement set; becasue to refuse to create an object
+        public IBasketServices BasketServices { get; }
     }
 }

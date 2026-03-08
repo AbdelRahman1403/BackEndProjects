@@ -1,4 +1,8 @@
-﻿@model IEnumerable<MemberViewModel>
+﻿@{
+    ViewData["Title"] = "Members";
+}
+
+@model IEnumerable<MemberViewModel>
 @if (TempData["SuccessMessage"] is not null)
 {
     <div id="Alert" class="alert alert-success alert-dismissible fade show">
@@ -22,7 +26,7 @@
                     </a>
                 </header>
 
-    @if(Model is not null || Model.Any())
+    @if(Model is not null && Model.Any())
     {
         <div class="table-responsive " style="overflow: visible;">
             <table class="table table-borderless">

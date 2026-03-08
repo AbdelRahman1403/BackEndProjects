@@ -36,18 +36,20 @@ namespace GymManagementPL
 
             builder.Services.AddScoped(typeof(IGenericRepo<>) , typeof(GenericRepo<>));
             builder.Services.AddScoped<ISessionRepo, SessionRepo>();
+            builder.Services.AddScoped<IMemberShipRepo, MemberShipRepo>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IAnalyticsService , AnalyticsServices>();
             builder.Services.AddScoped<IMemberServices , MemberServices>();
             builder.Services.AddScoped<ITrainerServices , TrainerServices>();
             builder.Services.AddScoped<IPlanServices, PlanServices>();
             builder.Services.AddScoped<ISessionServices, SessionServices>();
+            builder.Services.AddScoped<IMemberShipServices, MemberShipServices>();
             builder.Services.AddScoped<IAttachmentServices, AttachmentServices>();
             builder.Services.AddScoped<IAccountServices, AccountServices>();
             builder.Services.AddAutoMapper(mp => mp.AddProfile(new SessionProfile()));
             builder.Services.AddAutoMapper(mp => mp.AddProfile(new MemberProfile()));
             builder.Services.AddAutoMapper(mp => mp.AddProfile(new TrainerProfile()));
-
+            builder.Services.AddAutoMapper(mp => mp.AddProfile(new MemberShipProfile()));
 
 
 

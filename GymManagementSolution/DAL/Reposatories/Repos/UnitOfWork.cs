@@ -16,10 +16,13 @@ namespace DAL.Reposatories.Repos
         private readonly GymDbContext dbContext;
         public ISessionRepo sessionRepo { get; }
 
-        public UnitOfWork(GymDbContext _dbContext , ISessionRepo sessionRepo)
+        public IMemberShipRepo memberShipRepo { get; }
+
+        public UnitOfWork(GymDbContext _dbContext , ISessionRepo sessionRepo, IMemberShipRepo memberShipRepo)
         {
             dbContext = _dbContext;
             this.sessionRepo = sessionRepo;
+            this.memberShipRepo = memberShipRepo;
         }
         public IGenericRepo<TEntity> GetRepository<TEntity>() where TEntity : BaseEntity, new()
         {

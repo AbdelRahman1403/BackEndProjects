@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
+using DomainLayer.Models.BasketModels;
 using DomainLayer.Models.ProductModels;
 using Microsoft.Extensions.Configuration;
+using Shared.Dtos.BasketDots;
 using Shared.Dtos.ProductDtos;
 using System;
 using System.Collections.Generic;
@@ -21,6 +23,9 @@ namespace ServiceLayer.MappingProfiles
 
             CreateMap<ProductType, TypeDto>();
             CreateMap<ProductBrand, BrandDto>();
+
+            CreateMap<BasketDto, CustomerBasket>().ReverseMap();
+            CreateMap<BasketItemDto, Basket>().ReverseMap();
         }
     }
 }

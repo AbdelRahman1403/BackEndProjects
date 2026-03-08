@@ -1,14 +1,22 @@
 
 using AutoMapper;
+using DomainLayer.ContractsRepoInterfaces;
 using DomainLayer.Seeding;
 using DomainLayer.UOW;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens.Experimental;
+using Perisistence.Repos;
 using Perisistence.SeedData;
 using Perisistence.Store;
 using Perisistence.UOW;
 using ServiceAbstractionLayer.IServices;
 using ServiceLayer.MappingProfiles;
 using ServiceLayer.Services;
+using Shared.ErrorModels;
+using StackExchange.Redis;
+using TalabatApp.CustomMiddelwares;
 
 namespace TalabatApp
 {
@@ -35,8 +43,31 @@ namespace TalabatApp
             builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
             builder.Services.AddScoped<IServiceManager, ServiceManager>();
 
+            builder.Services.AddScoped<IBasketRepo , BasketRepo>();
             builder.Services.AddAutoMapper(prf => prf.AddProfile(new ProductProfile(builder.Configuration)));
 
+            builder.Services.Configure<ApiBehaviorOptions>((options) =>
+            {
+                options.InvalidModelStateResponseFactory = (context) =>
+                {
+                    var Errors = context.ModelState.Where(e => e.Value.Errors.Any())
+                                        .Select(m => new ValidationErrors()
+                                        {
+                                            Field = m.Key,
+                                            Errors = m.Value.Errors.Select(e => e.ErrorMessage)
+                                        });
+                    var Response = new ValidationErrorToReturn()
+                    {
+                        Errors = Errors
+                    };
+                    return new BadRequestObjectResult(Response);
+                };
+            });
+
+            builder.Services.AddSingleton<IConnectionMultiplexer>((_) =>
+            {
+                return ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnect"));
+            });
             var app = builder.Build();
 
             var Scopped = app.Services.CreateScope();
@@ -52,6 +83,7 @@ namespace TalabatApp
                 app.UseSwaggerUI();
             }
 
+            app.UseMiddleware<CustomExeceptionMiddelwares>();
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

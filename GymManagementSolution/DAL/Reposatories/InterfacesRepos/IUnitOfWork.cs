@@ -12,6 +12,7 @@ namespace DAL.Reposatories.InterfacesRepos
     public interface IUnitOfWork
     {
         ISessionRepo sessionRepo { get; }
+        IMemberShipRepo memberShipRepo { get; }
         IGenericRepo<TEntity> GetRepository<TEntity>() where TEntity : BaseEntity , new();
 
         int SaveChanges();

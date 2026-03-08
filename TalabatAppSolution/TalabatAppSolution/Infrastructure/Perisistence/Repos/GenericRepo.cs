@@ -30,5 +30,10 @@ namespace Perisistence.Repos
         {
             return await SpecificationEvaluator.CreateQuery(context.Set<TEntity>(), specification).ToListAsync();
         }
+
+        public async Task<int> GetCountWithSpecificationsAsync(ISpecification<TEntity, TKey> specification)
+        {
+            return await SpecificationEvaluator.CreateQuery(context.Set<TEntity>(), specification).CountAsync();
+        }
     }
 }

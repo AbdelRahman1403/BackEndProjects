@@ -1,4 +1,8 @@
-﻿@model IEnumerable<SessionViewModel>
+﻿@{
+        ViewData["Title"] = "Training Sessions";
+}
+
+@model IEnumerable<SessionViewModel>
 @if (TempData["SuccessMessage"] != null)
 {
     <div id="Alert" class="alert alert-success alert-dismissible fade show">

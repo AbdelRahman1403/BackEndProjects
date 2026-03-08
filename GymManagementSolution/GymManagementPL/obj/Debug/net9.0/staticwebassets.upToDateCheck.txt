@@ -90,6 +90,7 @@ wwwroot\images\line-md_phone-filled.jpg
 wwwroot\images\logo.jpg
 wwwroot\images\mdi_whatsapp.jpg
 wwwroot\images\members\1139d358-cddd-4dab-91ed-f0c3c80430be.png
+wwwroot\images\members\8e61e95d-78fb-4202-a0f1-979904c4136c.png
 wwwroot\images\message icon.jpg
 wwwroot\images\phone icon.jpg
 wwwroot\images\search icon.jpg

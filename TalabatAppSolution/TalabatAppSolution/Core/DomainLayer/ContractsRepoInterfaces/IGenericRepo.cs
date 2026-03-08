@@ -13,6 +13,7 @@ namespace DomainLayer.ContractsRepoInterfaces
         Task<TEntity> GetByIdSpecificationsAsync(ISpecification<TEntity, TKey> specification);
         Task<IEnumerable<TEntity>> GetAllAsync();
         Task<IEnumerable<TEntity>> GetAllWithSpecificationsAsync(ISpecification<TEntity,TKey> specification);
+        Task<int> GetCountWithSpecificationsAsync(ISpecification<TEntity,TKey> specification);
         void Add(TEntity entity);
         void Update(TEntity entity);
         void Delete(TEntity entity);
