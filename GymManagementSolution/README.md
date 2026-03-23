@@ -2,7 +2,6 @@
 
 [![.NET Version](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/9.0)
 [![Architecture](https://img.shields.io/badge/Architecture-N--Tier-green.svg)](#architecture)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
 A comprehensive, enterprise-grade Gym Management System built with **.NET 9**. This solution is designed to streamline gym operations, ranging from member registration and subscription tracking to trainer scheduling and business analytics.
 
