@@ -21,7 +21,7 @@ namespace Perisistence.Repos
         public void Update(TEntity entity) => context.Set<TEntity>().Update(entity);
         public void Delete(TEntity entity) => context.Set<TEntity>().Remove(entity);
 
-        public async Task<TEntity> GetByIdSpecificationsAsync(ISpecification<TEntity, TKey> specification)
+        public async Task<TEntity?> GetByIdSpecificationsAsync(ISpecification<TEntity, TKey> specification)
         {
             return await SpecificationEvaluator.CreateQuery(context.Set<TEntity>(), specification).FirstOrDefaultAsync();
         }

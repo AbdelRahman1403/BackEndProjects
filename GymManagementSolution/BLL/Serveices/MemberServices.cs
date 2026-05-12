@@ -148,11 +148,14 @@ namespace BLL.Serveices
 
             try
             {
-                foreach (var membership in MemberShips)
+                if (MemberShips.Any())
                 {
-                    _unitOfWork.GetRepository<MemberShip>().Delete(membership.Id);
+                    foreach (var membership in MemberShips)
+                    {
+                        _unitOfWork.memberShipRepo.Delete(membership.Id, membership.PlanId);
+                    }
                 }
-                _unitOfWork.GetRepository<MemberShip>().Delete(memberId);
+                _unitOfWork.GetRepository<Member>().Delete(memberId);  
                 var isDeleated = _unitOfWork.SaveChanges() > 0;
                 if (isDeleated)
                 {

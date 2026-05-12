@@ -1,4 +1,5 @@
 ﻿using DomainLayer.Exceptions;
+using Microsoft.IdentityModel.Tokens;
 using Shared.ErrorModels;
 
 namespace TalabatApp.CustomMiddelwares
@@ -27,21 +28,27 @@ namespace TalabatApp.CustomMiddelwares
             catch(Exception ex)
             {
                 _logger.LogError(ex, ex.Message);
+                var errorToReturn = new ErrorToReturn
+                {
+                    Message = ex.Message
+                };
                 context.Response.StatusCode = ex switch
                 {
                     NotFoundException => StatusCodes.Status404NotFound,
+                    BadRequestException badRequestException => GetBadRequestErrors(ref badRequestException ,ref errorToReturn),
                     _ => StatusCodes.Status500InternalServerError
                 };
                 context.Response.ContentType = "application/json";
 
-                var errorToReturn = new ErrorToReturn
-                {
-                    StatusCode = context.Response.StatusCode,
-                    Message = ex.Message
-                };
-
                 await context.Response.WriteAsJsonAsync(errorToReturn);
             }
+        }
+
+        private int GetBadRequestErrors(ref BadRequestException exception ,ref ErrorToReturn response)
+        {
+            response.Errors = exception.Errors;
+
+            return StatusCodes.Status400BadRequest;
         }
     }
 }

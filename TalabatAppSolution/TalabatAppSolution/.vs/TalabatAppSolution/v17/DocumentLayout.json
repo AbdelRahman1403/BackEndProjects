@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\basketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\basketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\identitymodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\perisistence\\repos\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|solutionrelative:infrastructure\\perisistence\\repos\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\identitymodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\identitymodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\basketmodels\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\basketmodels\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\contractsrepointerfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contractsrepointerfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\basketdots\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdots\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\basketdots\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdots\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\productmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,93 +102,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BasketItemDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\BasketDots\\BasketItemDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\BasketDots\\BasketItemDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\BasketDots\\BasketItemDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\BasketDots\\BasketItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T01:01:59.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
-              "RelativeToolTip": "Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAASwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:56:09.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
-              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:54:47.715Z",
+              "WhenOpened": "2026-05-12T03:28:45.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Basket.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\BasketModels\\Basket.cs",
-              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BasketModels\\Basket.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\BasketModels\\Basket.cs",
-              "RelativeToolTip": "Core\\DomainLayer\\Models\\BasketModels\\Basket.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAiAAAAAAAAAA==",
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\ContractsRepoInterfaces\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:54:11.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasketDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\BasketDots\\BasketDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\BasketDots\\BasketDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\BasketDots\\BasketDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\BasketDots\\BasketDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:52:53.763Z",
+              "WhenOpened": "2026-05-12T03:28:03.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BasketServices.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\BasketServices.cs",
-              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\BasketServices.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\BasketServices.cs",
-              "RelativeToolTip": "Core\\ServiceLayer\\Services\\BasketServices.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBQAAABJAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\IdentityModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:52:07.331Z",
+              "WhenOpened": "2026-05-12T03:12:26.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\IdentityModels\\Address.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T01:06:08.01Z",
+              "WhenOpened": "2026-05-12T03:12:22.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:11:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\Products.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\Products.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\Products.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:11:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:11:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:11:42.825Z",
               "EditorCaption": ""
             }
           ]

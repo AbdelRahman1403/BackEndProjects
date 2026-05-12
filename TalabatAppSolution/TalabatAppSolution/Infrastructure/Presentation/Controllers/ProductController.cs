@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Presentation.Attributes;
 using ServiceAbstractionLayer.IServices;
 using Shared.Common;
 using Shared.Dtos.ProductDtos;
@@ -11,10 +13,12 @@ using System.Threading.Tasks;
 namespace Presentation.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/[controller]")]
     public class ProductController(IServiceManager serviceManager) : ControllerBase
     {
         [HttpGet]
+        [Cache]
         public async Task<ActionResult<PaginationResult<ProductDto>>> GetAllProducts([FromQuery]ProductQueryPrams productQuery)
         {
             var products = await serviceManager.ProductServices.GetAllProductsAsync(productQuery);

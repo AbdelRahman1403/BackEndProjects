@@ -54,5 +54,12 @@ namespace GymManagementPL.Controllers
             }
             return View(model);
         }
+
+        [HttpPost]
+        public IActionResult Logout()
+        {
+            _signInManager.SignOutAsync().GetAwaiter().GetResult();
+            return RedirectToAction(nameof(Login));
+        }
     }
 }

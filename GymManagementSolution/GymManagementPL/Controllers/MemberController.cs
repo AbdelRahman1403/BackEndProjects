@@ -1,4 +1,5 @@
 ﻿using BLL.Interfaces;
+using BLL.Serveices;
 using BLL.ViewModels.MemberViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -111,6 +112,32 @@ namespace GymManagementPL.Controllers
                 ModelState.AddModelError(string.Empty, "Please correct the errors and try again.");
                 return View(nameof(MemberCreate), viewModel);
             }
+        }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            if (id <= 0)
+            {
+                TempData["ErrorMessage"] = "Invalid Member Id";
+                return RedirectToAction(nameof(Index));
+            }
+            var memberDetails = memberServices.DetailsOfMember(id);
+            if (memberDetails is null)
+            {
+                TempData["ErrorMessage"] = "Member Not Found";
+                return RedirectToAction(nameof(Index));
+            }
+            ViewBag.MemberId = memberDetails.Id;
+            return View();
+        }
+        [HttpPost]
+        public IActionResult ConfirmedDeleted(int id)
+        {
+            var res = memberServices.DeleteMember(id);
+
+            if (res) TempData["SuccessMessage"] = "Success to Delete the member";
+            else TempData["ErrorMessage"] = "Feild to delete the memeber";
+            return RedirectToAction(nameof(Index));
         }
     }
 }

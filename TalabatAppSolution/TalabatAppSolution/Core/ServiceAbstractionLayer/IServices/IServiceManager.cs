@@ -10,5 +10,9 @@ namespace ServiceAbstractionLayer.IServices
     {
         public IProductServices ProductServices { get; } // Not implement set; becasue to refuse to create an object
         public IBasketServices BasketServices { get; }
+        public IPaymentServices paymentServices { get; }
+        public IAuthenticationServices AuthenticationServices { get; }
+
+        public IOrderServices OrderServices { get; }
     }
 }

@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Controllers;
+using Presentation.Attributes;
 using ServiceAbstractionLayer.IServices;
 using Shared.Dtos.BasketDots;
 using System;
@@ -11,10 +13,12 @@ using System.Threading.Tasks;
 namespace Presentation.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/[controller]")]
     public class BasketController(IServiceManager serviceManager) : ControllerBase 
     {
-        [HttpGet]
+        [HttpGet("GetBasket")]
+        [Cache]
         public async Task<ActionResult<BasketDto>> GetBasket(string Key)
         {
             var Basket = await serviceManager.BasketServices.GetBasketAsync(Key);
