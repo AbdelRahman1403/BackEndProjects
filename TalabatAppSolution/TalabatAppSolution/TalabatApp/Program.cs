@@ -37,9 +37,18 @@ namespace TalabatApp
             builder.Services.AddDbContext<StoreIdentityDbContext>(options => {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
             });
-            builder.Services.AddSingleton<IConnectionMultiplexer>((_) =>
+            builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
             {
-                return ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnect"));
+                var connectionString =
+                    builder.Configuration
+                        .GetConnectionString("RedisConnect");
+
+                var configurationOptions =
+                    ConfigurationOptions.Parse(connectionString!);
+
+                configurationOptions.AbortOnConnectFail = false;
+
+                return ConnectionMultiplexer.Connect(configurationOptions);
             });
             builder.Services.AddScoped<ISeddingData, SeedingData>();
             builder.Services.AddScoped<ISeedingIdentityData, SeedingIdentityData>();
@@ -99,14 +108,14 @@ namespace TalabatApp
             
             var app = builder.Build();
 
-            var Scopped = app.Services.CreateScope();
+            //var Scopped = app.Services.CreateScope();
 
-            var ObjectSeeding = Scopped.ServiceProvider.GetRequiredService<ISeddingData>();
+            //var ObjectSeeding = Scopped.ServiceProvider.GetRequiredService<ISeddingData>();
 
-            ObjectSeeding.DataSeed();
+            //ObjectSeeding.DataSeed();
 
-            var ObjectIdentitySeeding = Scopped.ServiceProvider.GetRequiredService<ISeedingIdentityData>();
-            ObjectIdentitySeeding.DataSeedAsync();
+            //var ObjectIdentitySeeding = Scopped.ServiceProvider.GetRequiredService<ISeedingIdentityData>();
+            //ObjectIdentitySeeding.DataSeedAsync();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
