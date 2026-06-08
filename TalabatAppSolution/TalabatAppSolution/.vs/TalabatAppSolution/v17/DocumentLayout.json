@@ -3,64 +3,40 @@
   "WorkspaceRootPath": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E5546CA-6129-47C9-86BD-AB43FF1A52FD}|TalabatApp\\TalabatApp.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\talabatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E5546CA-6129-47C9-86BD-AB43FF1A52FD}|TalabatApp\\TalabatApp.csproj|solutionrelative:talabatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\authenticationdtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\authenticationdtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\authenticationdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\authenticationdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\authenticationdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\authenticationdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\shared\\dtos\\authenticationdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF88991E-5589-4003-AF46-2762A6B2C0B7}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\authenticationdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\presentation\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF10485A-CB85-4FDA-A02D-4CC77F44E714}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\exceptions\\authenticationexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\authenticationexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\exceptions\\authenticationexceptions\\unauthenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\authenticationexceptions\\unauthenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\exceptions\\authenticationexceptions\\addressnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\authenticationexceptions\\addressnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\perisistence\\repos\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|solutionrelative:infrastructure\\perisistence\\repos\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\domainlayer\\contractsrepointerfaces\\icacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D7E634D-43AB-4DE1-9379-E9C6D1863191}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contractsrepointerfaces\\icacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E5546CA-6129-47C9-86BD-AB43FF1A52FD}|TalabatApp\\TalabatApp.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\talabatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5546CA-6129-47C9-86BD-AB43FF1A52FD}|TalabatApp\\TalabatApp.csproj|solutionrelative:talabatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\infrastructure\\perisistence\\repos\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C631B12B-EECE-4F3B-AC09-FB218EB82152}|Infrastructure\\Perisistence\\Perisistence.csproj|solutionrelative:infrastructure\\perisistence\\repos\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B141AA-9377-4EDC-9B91-330F1B8BC48A}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\serviceabstractionlayer\\iservices\\icacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B141AA-9377-4EDC-9B91-330F1B8BC48A}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:core\\serviceabstractionlayer\\iservices\\icacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\dotnet projects\\talabatappsolution\\talabatappsolution\\core\\servicelayer\\services\\basketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7831F1D-7B29-4A2D-A8B0-E87962ECF74F}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\services\\basketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,190 +106,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\AuthenticationDtos\\UserDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\UserDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\AuthenticationDtos\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T10:41:39.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\AuthenticationDtos\\RegisterDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\RegisterDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\AuthenticationDtos\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T10:41:37.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\AuthenticationDtos\\LoginDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\LoginDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\AuthenticationDtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T10:41:36.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddressDto.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\AddressDto.cs",
-              "RelativeDocumentMoniker": "Shared\\Dtos\\AuthenticationDtos\\AddressDto.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Shared\\Dtos\\AuthenticationDtos\\AddressDto.cs",
-              "RelativeToolTip": "Shared\\Dtos\\AuthenticationDtos\\AddressDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T10:41:34.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:01:15.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:00:50.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CacheAttribute.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Attributes\\CacheAttribute.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Attributes\\CacheAttribute.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Attributes\\CacheAttribute.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Attributes\\CacheAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:00:39.112Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\TalabatApp\\Program.cs",
-              "RelativeDocumentMoniker": "TalabatApp\\Program.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\TalabatApp\\Program.cs",
-              "RelativeToolTip": "TalabatApp\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:43:13.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:01:03.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "AuthenticationServices.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
               "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
               "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
               "RelativeToolTip": "Core\\ServiceLayer\\Services\\AuthenticationServices.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:31:19.96Z"
+              "WhenOpened": "2026-06-01T05:26:36.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\ServiceManager.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Core\\ServiceLayer\\Services\\ServiceManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\UserNotFoundException.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:28:53.137Z"
+              "WhenOpened": "2026-06-01T05:25:42.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CacheRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
-              "RelativeToolTip": "Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "unAuthenticationException.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\unAuthenticationException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\unAuthenticationException.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\unAuthenticationException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\unAuthenticationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:28:10.93Z"
+              "WhenOpened": "2026-06-01T05:25:39.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "AddressNotFoundException.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\AddressNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\AddressNotFoundException.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\AddressNotFoundException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\AuthenticationExceptions\\AddressNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T05:25:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CacheServices.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\CacheServices.cs",
               "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\CacheServices.cs",
               "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\CacheServices.cs",
               "RelativeToolTip": "Core\\ServiceLayer\\Services\\CacheServices.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:27:20.951Z"
+              "WhenOpened": "2026-06-01T02:58:51.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICacheServices.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceAbstractionLayer\\IServices\\ICacheServices.cs",
-              "RelativeDocumentMoniker": "Core\\ServiceAbstractionLayer\\IServices\\ICacheServices.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceAbstractionLayer\\IServices\\ICacheServices.cs",
-              "RelativeToolTip": "Core\\ServiceAbstractionLayer\\IServices\\ICacheServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\TalabatApp\\Program.cs",
+              "RelativeDocumentMoniker": "TalabatApp\\Program.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\TalabatApp\\Program.cs",
+              "RelativeToolTip": "TalabatApp\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwD8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:27:23.023Z"
+              "WhenOpened": "2026-06-01T02:58:37.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICacheRepo.cs",
-              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ICacheRepo.cs",
-              "RelativeDocumentMoniker": "Core\\DomainLayer\\ContractsRepoInterfaces\\ICacheRepo.cs",
-              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\DomainLayer\\ContractsRepoInterfaces\\ICacheRepo.cs",
-              "RelativeToolTip": "Core\\DomainLayer\\ContractsRepoInterfaces\\ICacheRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CacheRepo.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Perisistence\\Repos\\CacheRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:27:35.426Z"
+              "WhenOpened": "2026-06-01T02:58:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketRepo.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Perisistence\\Repos\\BasketRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T02:57:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketServices.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\BasketServices.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Services\\BasketServices.cs",
+              "ToolTip": "E:\\DotNet Projects\\TalabatAppSolution\\TalabatAppSolution\\Core\\ServiceLayer\\Services\\BasketServices.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Services\\BasketServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T02:57:08.793Z"
             }
           ]
         }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\DotNet Projects\\GymManagementSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\seedingdata\\identitydbcontextseedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\seedingdata\\identitydbcontextseedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\seedingdata\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\seedingdata\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -115,6 +123,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IdentityDbContextSeedingData.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\SeedingData\\IdentityDbContextSeedingData.cs",
+              "RelativeDocumentMoniker": "DAL\\SeedingData\\IdentityDbContextSeedingData.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\SeedingData\\IdentityDbContextSeedingData.cs",
+              "RelativeToolTip": "DAL\\SeedingData\\IdentityDbContextSeedingData.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T20:11:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedingData.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\SeedingData\\SeedingData.cs",
+              "RelativeDocumentMoniker": "DAL\\SeedingData\\SeedingData.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\SeedingData\\SeedingData.cs",
+              "RelativeToolTip": "DAL\\SeedingData\\SeedingData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T20:10:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GymDbContext.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\GymDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\GymDbContext.cs",
@@ -127,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CategoryConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\CategoryConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\CategoryConfigurations.cs",
@@ -135,12 +169,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\CategoryConfigurations.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:50.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:50.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GymUserConfiguration.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\GymUserConfiguration.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\GymUserConfiguration.cs",
@@ -152,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HealthRecordConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
@@ -164,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MemberConfiguration.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberConfiguration.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberConfiguration.cs",
@@ -176,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MemberSessionsConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
@@ -188,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MemberShipConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
@@ -200,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PlanConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\PlanConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\PlanConfigurations.cs",
@@ -212,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SessionConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\SessionConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\SessionConfigurations.cs",
@@ -224,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TrainerConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\TrainerConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\TrainerConfigurations.cs",
@@ -236,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
               "RelativeDocumentMoniker": "GymManagementPL\\Program.cs",

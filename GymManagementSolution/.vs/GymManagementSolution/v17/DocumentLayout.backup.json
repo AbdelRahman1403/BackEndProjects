@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\DotNet Projects\\GymManagementSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|e:\\dotnet projects\\gymmanagementsolution\\dal\\data\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BA4386A-1DD6-4E08-816A-A879343B1D3F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,6 +115,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\GymDbContext.cs",
+              "ToolTip": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\GymDbContext.cs",
+              "RelativeToolTip": "DAL\\Data\\GymDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T00:11:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CategoryConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\CategoryConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\CategoryConfigurations.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GymUserConfiguration.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\GymUserConfiguration.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\GymUserConfiguration.cs",
@@ -131,12 +148,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\GymUserConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:43.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:43.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HealthRecordConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\HealthRecordConfigurations.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:33.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:33.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MemberConfiguration.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberConfiguration.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberConfiguration.cs",
@@ -157,12 +172,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\MemberConfiguration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:30.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:30.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MemberSessionsConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
@@ -170,12 +184,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\MemberSessionsConfigurations.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:26.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:26.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MemberShipConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
@@ -183,12 +196,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\MemberShipConfigurations.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:09.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:09.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlanConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\PlanConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\PlanConfigurations.cs",
@@ -196,12 +208,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\PlanConfigurations.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:25:00.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:25:00.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SessionConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\SessionConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\SessionConfigurations.cs",
@@ -209,12 +220,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\SessionConfigurations.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:24:47.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:24:47.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TrainerConfigurations.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\DAL\\Data\\Configurations\\TrainerConfigurations.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\TrainerConfigurations.cs",
@@ -222,12 +232,11 @@
               "RelativeToolTip": "DAL\\Data\\Configurations\\TrainerConfigurations.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T00:24:41.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T00:24:41.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNet Projects\\GymManagementSolution\\GymManagementPL\\Program.cs",
               "RelativeDocumentMoniker": "GymManagementPL\\Program.cs",
@@ -235,8 +244,7 @@
               "RelativeToolTip": "GymManagementPL\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T04:49:35.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T04:49:35.676Z"
             }
           ]
         }
