@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Appointments\Validators\" />
+    <Folder Include="Appointments\Queries\" />
+    <Folder Include="Appointments\Commands\" />
+    <Folder Include="Authentication\Queries\" />
+    <Folder Include="Doctors\Commands\" />
+    <Folder Include="Doctors\DTOs\" />
+    <Folder Include="Doctors\Queries\" />
+    <Folder Include="Doctors\Validators\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Patients\Commands\" />
+    <Folder Include="Patients\DTOs\" />
+    <Folder Include="Patients\Queries\" />
+    <Folder Include="Patients\Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
+    <PackageReference Include="MediatR" Version="14.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\DomainLayer.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+
+</Project>
